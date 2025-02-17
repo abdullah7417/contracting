@@ -6,7 +6,7 @@
     >
       <div class="container">
         <a href="#" class="navbar-brand"
-          ><img src="./Group.png" alt="logo"
+          ><img src="img/Group.png" alt="logo"
         /></a>
         <button
           class="navbar-toggler"

@@ -20,7 +20,11 @@
             class="w-100"
           />
         </div>
-        <div class="col-md-4 mb-4" v-for="adv in advantages" :key="adv.id">
+        <div
+          class="col-sm-6 col-md-4 mb-2"
+          v-for="adv in advantages"
+          :key="adv.id"
+        >
           <div class="d-flex align-items-center gap-3">
             <img :src="adv.img" alt="advantage" />
             <p class="mb-0 text-white">
@@ -96,7 +100,7 @@
   }
 }
 .row {
-  padding-bottom: 6rem;
+  padding-bottom: 8rem;
 }
 </style>
 <script setup>
@@ -109,17 +113,17 @@ const advantages = ref([
   {
     id: 1,
     adv: "Lorem Ipsumis simply dummy text of the printing.",
-    img: "/public/img/image-w.png",
+    img: "img/image-w.png",
   },
   {
     id: 2,
     adv: "Lorem Ipsumis simply dummy text of the printing.",
-    img: "/public/img/image-w.png",
+    img: "img/image-w.png",
   },
   {
     id: 3,
     adv: "Lorem Ipsumis simply dummy text of the printing.",
-    img: "/public/img/image-w.png",
+    img: "img/image-w.png",
   },
 ]);
 </script>

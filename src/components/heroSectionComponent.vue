@@ -36,7 +36,7 @@ onMounted(() => {
             ><span>Start Free Trail</span><i class="fa-solid fa-arrow-right"></i
           ></a>
 
-          <img src="/public/img/img2.png" class="w-75 mt-3" alt="home-img" />
+          <img src="img/img2.png" class="w-75 mt-3" alt="home-img" />
 
           <p class="mt-2">TRUSTED BY +25,000 BUSINESSES</p>
         </div>

@@ -95,17 +95,17 @@ const advantages = ref([
   {
     id: 1,
     adv: "Lorem Ipsumis simply dummy text of the printing.",
-    img: "/public/img/image.png",
+    img: "img/image.png",
   },
   {
     id: 2,
     adv: "Lorem Ipsumis simply dummy text of the printing.",
-    img: "/public/img/image.png",
+    img: "img/image.png",
   },
   {
     id: 3,
     adv: "Lorem Ipsumis simply dummy text of the printing.",
-    img: "/public/img/image.png",
+    img: "img/image.png",
   },
 ]);
 </script>
