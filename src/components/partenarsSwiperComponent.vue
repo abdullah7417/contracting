@@ -9,30 +9,38 @@
       class="my-swiper"
     >
       <SwiperSlide>
-        <img src="./img/googleplus logo.png" class="w-50" alt="googleplus" />
-      </SwiperSlide>
-      <SwiperSlide>
-        <img src="./img/microsoft logo.png" class="w-50" alt="microsoft" />
+        <img
+          src="/public/img/googleplus logo.png"
+          class="w-50"
+          alt="googleplus"
+        />
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="./img/metallb-horizontal-white logo.png"
+          src="/public/img/microsoft logo.png"
+          class="w-50"
+          alt="microsoft"
+        />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img
+          src="/public/img/metallb-horizontal-white logo.png"
           class="w-50"
           alt="metallb-horizontal-white"
         />
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="./img/linkedin-plain-wordmark logo.png"
+          src="/public/img/linkedin-plain-wordmark logo.png"
           class="w-50"
           alt="linkedin"
         />
       </SwiperSlide>
       <SwiperSlide>
-        <img src="./img/Frame 2.png" class="w-50" alt="instegram" />
+        <img src="/public/img/Frame 2.png" class="w-50" alt="instegram" />
       </SwiperSlide>
       <SwiperSlide>
-        <img src="./img/Frame 3.png" class="w-25" alt="apple" />
+        <img src="/public/img/Frame 3.png" class="w-25" alt="apple" />
       </SwiperSlide>
     </Swiper>
   </div>

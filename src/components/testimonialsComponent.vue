@@ -36,7 +36,7 @@
               class="card-footer bg-transparent border-0 d-flex align-items-center"
             >
               <img
-                src="./img/user_1.png.png"
+                src="/public/img/user_1.png.png"
                 class="rounded-circle me-2"
                 style="width: 48px; height: 48px"
                 alt="User"
@@ -95,7 +95,7 @@
               class="card-footer bg-transparent border-0 d-flex align-items-center"
             >
               <img
-                src="./img/user_2.png.png"
+                src="/public/img/user_2.png.png"
                 class="rounded-circle me-2"
                 style="width: 48px; height: 48px"
                 alt="User"
@@ -124,7 +124,7 @@
               class="card-footer bg-transparent border-0 d-flex align-items-center"
             >
               <img
-                src="./img/user_1.png.png"
+                src="/public/img/user_1.png.png"
                 class="rounded-circle me-2"
                 style="width: 48px; height: 48px"
                 alt="User"

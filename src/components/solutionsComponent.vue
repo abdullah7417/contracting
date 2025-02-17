@@ -107,48 +107,48 @@ const cards = ref([
     title: "solution Title",
     pargraph: ` Some quick example text to build on the card title and make up
                   the bulk of the card's content.`,
-    image: "./img/sol-1.svg fill.png",
-    arrow: "./img/arrow.svg.png",
+    image: "/public/img/sol-1.svg fill.png",
+    arrow: "/public/img/arrow.svg.png",
   },
   {
     id: 2,
     title: "solution Title",
     pargraph: ` Some quick example text to build on the card title and make up
                   the bulk of the card's content.`,
-    image: "./img/sol-2.svg fill.png",
-    arrow: "./img/arrow.svg.png",
+    image: "/public/img/sol-2.svg fill.png",
+    arrow: "/public/img/arrow.svg.png",
   },
   {
     id: 3,
     title: "solution Title",
     pargraph: ` Some quick example text to build on the card title and make up
                   the bulk of the card's content.`,
-    image: "./img/sol-3.svg fill.png",
-    arrow: "./img/arrow.svg.png",
+    image: "/public/img/sol-3.svg fill.png",
+    arrow: "/public/img/arrow.svg.png",
   },
   {
     id: 4,
     title: "solution Title",
     pargraph: ` Some quick example text to build on the card title and make up
                   the bulk of the card's content.`,
-    image: "./img/sol-4.svg fill.png",
-    arrow: "./img/arrow.svg.png",
+    image: "/public/img/sol-4.svg fill.png",
+    arrow: "/public/img/arrow.svg.png",
   },
   {
     id: 5,
     title: "solution Title",
     pargraph: ` Some quick example text to build on the card title and make up
                   the bulk of the card's content.`,
-    image: "./img/sol-5.svg fill.png",
-    arrow: "./img/arrow.svg.png",
+    image: "/public/img/sol-5.svg fill.png",
+    arrow: "/public/img/arrow.svg.png",
   },
   {
     id: 6,
     title: "solution Title",
     pargraph: ` Some quick example text to build on the card title and make up
                   the bulk of the card's content.`,
-    image: "./img/sol-6.svg fill.png",
-    arrow: "./img/arrow.svg.png",
+    image: "/public/img/sol-6.svg fill.png",
+    arrow: "/public/img/arrow.svg.png",
   },
 ]);
 </script>

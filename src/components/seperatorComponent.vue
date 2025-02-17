@@ -1,7 +1,7 @@
 <template>
   <div class="seperator">
     <div class="position-absolute sep">
-      <img src="./img/Vector.png" class="w-100" alt="separator-img" />
+      <img src="/public/img/Vector.png" class="w-100" alt="separator-img" />
     </div>
   </div>
 </template>
