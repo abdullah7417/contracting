@@ -5,7 +5,7 @@
         class="foot d-flex flex-column justify-content-center align-items-center gap-3 pt-5"
       >
         <div class="logo">
-          <img src="/img/Group.png" alt="logo" />
+          <img src="./img/Group.png" alt="logo" />
         </div>
         <div class="text text-center">
           <h2>Stay tuned for updates</h2>
@@ -15,7 +15,7 @@
           </p>
         </div>
         <div class="follow d-flex align-items-center justify-content-around">
-          <img src="/img/follow.svg.png" alt="follow" />
+          <img src="./img/follow.svg.png" alt="follow" />
           <p class="mb-0">Follow Us On Social media</p>
         </div>
         <div

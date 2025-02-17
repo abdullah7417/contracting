@@ -352,7 +352,7 @@
 <script setup>
 import { ref } from "vue";
 
-const rightIcon = ref("/img/image.png");
+const rightIcon = ref("./img/image.png");
 const cardOne = ref("For freelancers, indie developers or solopreneurs.");
 const cardTwo = ref("For fast-growing teams, up to 6library users.");
 const cardThree = ref("For large teams, an unlimitednumber of library users.");

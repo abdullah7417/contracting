@@ -5,7 +5,9 @@
       ref="myNav"
     >
       <div class="container">
-        <a href="#" class="navbar-brand"><img src="/Group.png" alt="logo" /></a>
+        <a href="#" class="navbar-brand"
+          ><img src="./Group.png" alt="logo"
+        /></a>
         <button
           class="navbar-toggler"
           type="button"
