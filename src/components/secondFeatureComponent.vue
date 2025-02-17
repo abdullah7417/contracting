@@ -17,7 +17,8 @@
           <img
             :src="features[0]?.image"
             :alt="features[0]?.name"
-            class="w-100"
+            class="w-100 h-100"
+            style="object-fit: contain"
           />
         </div>
         <div

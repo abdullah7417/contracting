@@ -42,7 +42,12 @@
               <p>{{ feature.description }}</p>
             </header>
             <div class="card-body pb-0 pe-0">
-              <img :src="feature.image" class="w-100" :alt="feature.name" />
+              <img
+                :src="feature.image"
+                class="w-100 h-100"
+                style="object-fit: contain"
+                :alt="feature.name"
+              />
             </div>
           </div>
         </div>
