@@ -25,7 +25,7 @@
         </div>
         <div class="col-md-4 mt-5" v-for="adv in advantages" :key="adv.id">
           <div class="d-flex align-items-center gap-3">
-            <img :src="adv.img" alt="" />
+            <img :src="adv.img" alt="advantage" />
             <p class="mb-0 text-color">
               {{ adv.adv }}
             </p>
