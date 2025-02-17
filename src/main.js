@@ -1,6 +1,12 @@
 import { createApp } from "vue";
 import App from "./App.vue";
 import router from "./router";
-import store from "./store";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap-vue-next/dist/bootstrap-vue-next.css";
+import BootstrapVueNext from "bootstrap-vue-next";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
+import { createPinia } from "pinia";
+import "../src/assets/style/style.scss";
 
-createApp(App).use(store).use(router).mount("#app");
+const vueApp = createApp(App);
+vueApp.use(BootstrapVueNext).use(createPinia()).use(router).mount("#app");
