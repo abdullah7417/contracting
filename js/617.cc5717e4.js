@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunkcontarackting"]=self["webpackChunkcontarackting"]||[]).push([[617],{617:function(n,t,a){a.r(t),a.d(t,{default:function(){return i}});var r=a(641);const c={class:"dashboard"};function e(n,t){return(0,r.uX)(),(0,r.CE)("div",c,t[0]||(t[0]=[(0,r.Lk)("h2",null,"Welcome to Contracting Dashboard",-1)]))}var o=a(6262);const u={},s=(0,o.A)(u,[["render",e]]);var i=s}}]);
-//# sourceMappingURL=617.0eee2cba.js.map
+//# sourceMappingURL=617.cc5717e4.js.map
